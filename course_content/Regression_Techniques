@@ -1,5 +1,8 @@
 Linear Regression
 Multiple Regression
+Polynomial Regression
+Stepwise Regression
 Lasso Regression
 Ridge Regression
+ElasticNet Regression
 Random Sample Consensus
